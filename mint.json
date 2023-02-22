@@ -62,7 +62,7 @@
     },
     {
       "group": "Feedback",
-      "pages": ["introduction", "features"]
+      "pages": ["feedback/alert", "feedback/modal", "feedback/progress", "feedback/skeleton", "feedback/spin"]
     },
     {
       "group": "Layout",
