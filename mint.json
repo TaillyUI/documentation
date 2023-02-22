@@ -46,7 +46,7 @@
   "navigation": [
     {
       "group": "Getting Started",
-      "pages": ["introduction", "features"]
+      "pages": ["introduction", "installation", "features"]
     },
     {
       "group": "Actions",
