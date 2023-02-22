@@ -49,6 +49,10 @@
       "pages": ["introduction", "installation", "features"]
     },
     {
+      "group": "Framework",
+      "pages": ["installation/astro", "installation/react", "installation/sveltekit", "installation/vue"]
+    },
+    {
       "group": "Actions",
       "pages": ["actions/button", "actions/context", "actions/dropdown", "actions/popover"]
     },
