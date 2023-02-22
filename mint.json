@@ -66,20 +66,19 @@
     },
     {
       "group": "Layout",
-      "pages": ["introduction", "features"]
+      "pages": ["layout/aspect-ratio"]
     },
     {
       "group": "Navigation",
-      "pages": ["introduction", "features"]
+      "pages": ["navigation/breadcrumbs", "navigation/pagination", "navigation/steps", "navigation/tabs"]
     },
     {
       "group": "Other",
-      "pages": ["introduction", "features"]
+      "pages": ["other/browser", "other/phone"]
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/TailifyUI",
+    "github": "https://github.com/TaillyUI"
   }
 }
